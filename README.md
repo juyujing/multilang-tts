@@ -88,8 +88,13 @@ git clone https://github.com/juyujing/multilang-tts.git
 cd multilang-tts
 ```
 
+### 🛠 Setting Up the Conda or Pip Environment
 
-### 🛠 Setting Up the Conda Environment
+To use this project, you need to set up the appropriate environment using either **Conda** or **pip**.
+
+---
+
+## **🔹 Using Conda (Recommended)**
 Make sure you have [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) installed. Then, create and activate the environment using:
 
 ```sh
@@ -103,6 +108,67 @@ If your Conda configuration uses `.yml` instead of `.yaml`, use:
 conda env create -f environment.yml
 conda activate tts
 ```
+
+To update the environment if dependencies change:
+
+```sh
+conda env update -f environment.yaml
+```
+
+To remove the environment if needed:
+
+```sh
+conda env remove -n tts
+```
+
+---
+
+## **🔹 Using Pip & Virtual Environment**
+If you prefer to use **pip** instead of Conda, you can set up a virtual environment manually.
+
+### **Step 1: Create a Virtual Environment**
+
+```sh
+python -m venv tts_env
+```
+
+### **Step 2: Activate the Virtual Environment**
+
+#### **On macOS/Linux**
+```sh
+source tts_env/bin/activate
+```
+
+#### **On Windows**
+```sh
+tts_env\Scripts\activate
+```
+
+### **Step 3: Install Dependencies**
+
+```sh
+pip install -r requirements.txt
+```
+
+To update dependencies later:
+
+```sh
+pip install --upgrade -r requirements.txt
+```
+
+To deactivate the virtual environment:
+
+```sh
+deactivate
+```
+
+To remove the virtual environment completely:
+
+```sh
+rm -rf tts_env  # macOS/Linux
+rd /s /q tts_env  # Windows
+```
+
 
 ### 🚀 Running the Program
 
