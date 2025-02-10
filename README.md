@@ -84,7 +84,7 @@ Il prend en charge plusieurs langues, permet d'enregistrer et de lire des fichie
 To get started, clone the repository from GitHub using the following command:
 
 ```sh
-git clone https://github.com/juyujing/text-to-speech.git
+git clone https://github.com/juyujing/multilang-tts.git
 cd text-to-speech
 ```
 
