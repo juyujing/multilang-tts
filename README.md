@@ -70,57 +70,6 @@ Il prend en charge plusieurs langues, permet d'enregistrer et de lire des fichie
 
 ---
 
-## 📥 Clone from GitHub
-
-```bash
-git clone https://github.com/juyujing/multilang-tts.git
-cd multilang-tts
-```
-
----
-
-## 📦 Set Up Environment with Conda
-
-```bash
-conda env create -f environment.yaml  # or .yml file
-conda activate tts-env
-```
-
----
-
-## 🚀 Run the Program
-
-### ✅ Run with Default Settings
-
-```bash
-python tts.py
-```
-
-This will play **all supported languages** in a loop.
-
----
-
-### ❓ Show Help Menu
-
-```bash
-python tts.py --help
-```
-
-This will display a detailed **multi-language help menu**.
-
----
-
-### 📌 Example Commands
-
-```bash
-python tts.py -t "Hello, world!" -l en --speed 1.5
-python tts.py -t "你好，世界！" -l zh-cn --format wav
-python tts.py -t "Bonjour le monde!" -l fr
-python tts.py --lang es -o ./output
-```
-
----
-
 ## 🔧 Features & Customization
 
 - ✅ **Multi-language Support** (All UN languages + most spoken languages)
@@ -174,6 +123,15 @@ python tts.py -h
 ```
 
 This will display detailed descriptions of the supported parameters, available in multiple languages.
+
+#### 📌 Example Commands
+
+```bash
+python tts.py -t "Hello, world!" -l en --speed 1.5
+python tts.py -t "你好，世界！" -l zh-cn --format wav
+python tts.py -t "Bonjour le monde!" -l fr
+python tts.py --lang es -o ./output
+```
 
 #### 🎙 Running with Custom Parameters
 To generate and play English speech from a custom text:
