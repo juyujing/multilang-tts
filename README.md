@@ -73,7 +73,7 @@ Il prend en charge plusieurs langues, permet d'enregistrer et de lire des fichie
 ## 📥 Clone from GitHub
 
 ```bash
-git clone https://github.com/juyujing/multilang-tts.git  # Replace with actual link
+git clone https://github.com/juyujing/multilang-tts.git
 cd multilang-tts
 ```
 
