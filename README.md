@@ -135,11 +135,10 @@ python tts.py --lang es -o ./output
 To get started, clone the repository from GitHub using the following command:
 
 ```sh
-git clone https://github.com/your-repository/text-to-speech.git
+git clone https://github.com/juyujing/text-to-speech.git
 cd text-to-speech
 ```
 
-*Replace `your-repository` with the actual GitHub repository URL.*
 
 ### 🛠 Setting Up the Conda Environment
 Make sure you have [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) installed. Then, create and activate the environment using:
@@ -281,5 +280,3 @@ conda env update --file environment.yaml --prune
 
 ### 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it for your needs.
-
-
