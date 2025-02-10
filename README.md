@@ -85,7 +85,7 @@ To get started, clone the repository from GitHub using the following command:
 
 ```sh
 git clone https://github.com/juyujing/multilang-tts.git
-cd text-to-speech
+cd multilang-tts
 ```
 
 
