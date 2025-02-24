@@ -133,7 +133,7 @@ LANGUAGE_ALIASES = {
     "fr": ["fr", "french", "français", "法语", "法文"],
     "ru": ["ru", "russian", "русский", "俄语", "俄文"],
     "ar": ["ar", "arabic", "عربي", "العربية", "阿拉伯语", "Arab"],
-    "ja": ["ja", "japanese", "日本語", "にほんご", "nihon", "Nihon", "nihongo", "Nihongo", "にっぽんご", "ニホンゴ", "ニッポンゴ", "Nippongo"],
+    "jp": ["jp", "ja", "japanese", "日本語", "にほんご", "nihon", "Nihon", "nihongo", "Nihongo", "にっぽんご", "ニホンゴ", "ニッポンゴ", "Nippongo"],
     "ko": ["ko", "korean", "한국어", "조선말", "Korea", "韩语", "朝鲜语", "조선어"],
     "hi": ["hi", "hindi", "हिन्दी", "印度语", "印地語", "हिंदी"],
 }
