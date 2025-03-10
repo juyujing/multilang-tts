@@ -193,9 +193,9 @@ This will display detailed descriptions of the supported parameters, available i
 #### 📌 Example Commands
 
 ```bash
-python tts.py -t "Hello, world!" -l en --speed 1.5
-python tts.py -t "你好，世界！" -l zh-cn --format wav
-python tts.py -t "Bonjour le monde!" -l fr
+python tts.py -t "Hello, world" -l en --speed 1.5
+python tts.py -t "你好，世界" -l zh-cn --format wav
+python tts.py -t "Bonjour le monde" -l fr
 python tts.py --lang es -o ./output
 ```
 
