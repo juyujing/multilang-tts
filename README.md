@@ -2,7 +2,7 @@
 
 ## 🌍 Multi-Language Text-to-Speech Converter
 
-This program converts text into speech using Google Text-to-Speech (Edge-TTS).\
+This program converts text into speech using Microsoft Text-to-Speech (Edge-TTS).\
 It supports multiple languages, allows saving and playing audio files, and provides various customization options.
 
 ---
