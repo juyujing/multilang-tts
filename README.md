@@ -2,70 +2,70 @@
 
 ## 🌍 Multi-Language Text-to-Speech Converter
 
-This program converts text into speech using Google Text-to-Speech (gTTS).\
+This program converts text into speech using Google Text-to-Speech (Edge-TTS).\
 It supports multiple languages, allows saving and playing audio files, and provides various customization options.
 
 ---
 
 ## 🇨🇳 多语言文本转语音转换器
 
-本程序使用 Google 文字转语音 (gTTS) 将文本转换为语音。\
+本程序使用 Microsoft 文字转语音 (Edge-TTS) 将文本转换为语音。\
 它支持多种语言，可保存和播放音频文件，并提供各种自定义选项。
 
 ---
 
 ## 🇭🇰/🇲🇴 多語言文字轉語音轉換器
 
-本程式使用 Google 文字轉語音 (gTTS) 將文字轉換為語音。\
+本程式使用 Microsoft 文字轉語音 (Edge-TTS) 將文字轉換為語音。\
 它支援多種語言，可儲存與播放音訊檔案，並提供各種自訂選項。
 
 ---
 
-## 🇪🇸 Conversor de texto a voz multilingüe con Google TTS
+## 🇪🇸 Conversor de texto a voz multilingüe con Edge-TTS
 
-Este programa convierte texto en voz usando Google Text-to-Speech (gTTS).\
+Este programa convierte texto en voz usando Microsoft Text-to-Speech (Edge-TTS).\
 Soporta múltiples idiomas, permite guardar y reproducir archivos de audio y ofrece diversas opciones de personalización。
 
 ---
 
-## 🇫🇷 Convertisseur de texte en parole multilingue avec Google TTS
+## 🇫🇷 Convertisseur de texte en parole multilingue avec Edge-TTS
 
-Ce programme convertit du texte en parole à l'aide de Google Text-to-Speech (gTTS)。\
+Ce programme convertit du texte en parole à l'aide de Microsoft Text-to-Speech (Edge-TTS)。\
 Il prend en charge plusieurs langues, permet d'enregistrer et de lire des fichiers audio et offre diverses options de personnalisation。
 
 ---
 
-## 🇷🇺 Многоязычный преобразователь текста в речь с Google TTS
+## 🇷🇺 Многоязычный преобразователь текста в речь с Edge-TTS
 
-Эта программа преобразует текст в речь с помощью Google Text-to-Speech (gTTS)。\
+Эта программа преобразует текст в речь с помощью Microsoft Text-to-Speech (Edge-TTS)。\
 Она поддерживает несколько языков, позволяет сохранять и воспроизводить аудиофайлы и предлагает различные параметры настройки。
 
 ---
 
-## 🇸🇦 محول النص إلى كلام متعدد اللغات باستخدام Google TTS
+## 🇸🇦 محول النص إلى كلام متعدد اللغات باستخدام Edge-TTS
 
-يقوم هذا البرنامج بتحويل النص إلى كلام باستخدام Google Text-to-Speech (gTTS)。\
+يقوم هذا البرنامج بتحويل النص إلى كلام باستخدام Microsoft Text-to-Speech (Edge-TTS)。\
 وهو يدعم لغات متعددة، ويسمح بحفظ وتشغيل ملفات الصوت، ويقدم خيارات تخصيص متنوعة。
 
 ---
 
 ## 🇯🇵 多言語対応テキスト音声変換プログラム
 
-このプログラムは、Google Text-to-Speech（gTTS）を使用してテキストを音声に変換します。\
+このプログラムは、Microsoft Text-to-Speech（Edge-TTS）を使用してテキストを音声に変換します。\
 複数の言語に対応し、音声ファイルの保存や再生が可能で、さまざまなカスタマイズオプションを提供します。
 
 ---
 
 ## 🇰🇷 다국어 텍스트 음성 변환기
 
-이 프로그램은 Google 텍스트 음성 변환(gTTS)을 사용하여 텍스트를 음성으로 변환합니다。\
+이 프로그램은 Microsoft 텍스트 음성 변환(Edge-TTS)을 사용하여 텍스트를 음성으로 변환합니다。\
 여러 언어를 지원하며, 오디오 파일 저장 및 재생이 가능하며, 다양한 맞춤 설정 옵션을 제공합니다。
 
 ---
 
-## 🇮🇳 Google TTS के साथ बहुभाषी टेक्स्ट-टू-स्पीच कन्वर्टर
+## 🇮🇳 Edge-TTS के साथ बहुभाषी टेक्स्ट-टू-स्पीच कन्वर्टर
 
-यह प्रोग्राम Google Text-to-Speech (gTTS) का उपयोग करके टेक्स्ट को आवाज में बदलता है।\
+यह प्रोग्राम Microsoft Text-to-Speech (Edge-TTS) का उपयोग करके टेक्स्ट को आवाज में बदलता है।\
 यह कई भाषाओं का समर्थन करता है, ऑडियो फाइलें सहेजने और चलाने की सुविधा देता है और विभिन्न अनुकूलन विकल्प प्रदान करता है।
 
 ---
